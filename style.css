@@ -21,6 +21,8 @@ body{
 .container{
     padding: 10px 10%;
 }
+/* #sidemenu{
+    /* font-size: 50px; */
 
 nav{
     display: flex;
